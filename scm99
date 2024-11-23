@@ -1,0 +1,13 @@
+# AdventureWorks Microservices
+## Objectives
+- Build microservices architecture.
+- Implement CI/CD pipeline.
+
+## Technology Stack
+- ASP.NET Core
+- Docker
+- MS SQL Server
+- Jenkins
+
+## Setup Instructions
+- Clone the repository and follow instructions.
